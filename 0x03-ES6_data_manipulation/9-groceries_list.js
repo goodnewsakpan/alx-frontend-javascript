@@ -7,4 +7,3 @@ export default function groceriesList() {
   map.set('Banana', 5);
   return map;
 }
-
